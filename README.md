@@ -1,1 +1,1 @@
-# steam_ban_list_cn
+# steam_ban_list_cn_data
